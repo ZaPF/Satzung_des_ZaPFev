@@ -17,8 +17,15 @@ Satzung_des_ZaPFev.pdf:
 	pdflatex Satzung_des_ZaPFev.tex
 Satzung_des_ZaPFev.mediawiki.txt:
 	pandoc -f latex -t mediawiki -o Satzung_des_ZaPFev.mediawiki.txt Satzung_des_ZaPFev.tex
+	### Korrekturen an der Mediawiki-Version:
+	### * Zeilen mit eingerücktem Text würden als im Wiki <code> dargestellt:
+	sed -i 's/^ //g' Satzung_des_ZaPFev.mediawiki.txt
 Satzung_des_ZaPFev.markdown.txt:
 	pandoc -f latex -t markdown -o Satzung_des_ZaPFev.markdown.txt Satzung_des_ZaPFev.tex
+	### Korrekturen an der Markdown-Version für Veröffentlichung auf http://zapfev.de/verein/satzung:
+	### * Überschriften weiter Einrücken
+	### * und Leerzeilen entfernen ( ';' trennt sed Befehle voneinenader )
+	sed -i 's/^# /### /g;/^$$/d' Satzung_des_ZaPFev.markdown.txt
 
 
 # clean the directory from unneeded files
