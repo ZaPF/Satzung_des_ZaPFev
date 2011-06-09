@@ -14,6 +14,7 @@ all: Satzung_des_ZaPFev.pdf Satzung_des_ZaPFev.mediawiki.txt Satzung_des_ZaPFev.
 # Die einzelnen Zieldateien werden wie folgt erstellt:
 Satzung_des_ZaPFev.pdf:
 	pdflatex Satzung_des_ZaPFev.tex
+	pdflatex Satzung_des_ZaPFev.tex
 Satzung_des_ZaPFev.mediawiki.txt:
 	pandoc -f latex -t mediawiki -o Satzung_des_ZaPFev.mediawiki.txt Satzung_des_ZaPFev.tex
 Satzung_des_ZaPFev.markdown.txt:
