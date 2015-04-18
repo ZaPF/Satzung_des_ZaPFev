@@ -12,15 +12,15 @@ all: Satzung_des_ZaPFev.pdf Satzung_des_ZaPFev.mediawiki.txt Satzung_des_ZaPFev.
 
 
 # Die einzelnen Zieldateien werden wie folgt erstellt:
-Satzung_des_ZaPFev.pdf:
+Satzung_des_ZaPFev.pdf: Satzung_des_ZaPFev.tex
 	pdflatex Satzung_des_ZaPFev.tex
 	pdflatex Satzung_des_ZaPFev.tex
-Satzung_des_ZaPFev.mediawiki.txt:
+Satzung_des_ZaPFev.mediawiki.txt: Satzung_des_ZaPFev.tex
 	pandoc -f latex -t mediawiki -o Satzung_des_ZaPFev.mediawiki.txt Satzung_des_ZaPFev.tex
 	### Korrekturen an der Mediawiki-Version:
 	### * Zeilen mit eingerücktem Text würden als im Wiki <code> dargestellt:
 	sed -i 's/^ //g' Satzung_des_ZaPFev.mediawiki.txt
-Satzung_des_ZaPFev.markdown.txt:
+Satzung_des_ZaPFev.markdown.txt: Satzung_des_ZaPFev.tex
 	pandoc -f latex -t markdown -o Satzung_des_ZaPFev.markdown.txt Satzung_des_ZaPFev.tex
 	### Korrekturen an der Markdown-Version für Veröffentlichung auf http://zapfev.de/verein/satzung:
 	### * Überschriften weiter Einrücken
