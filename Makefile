@@ -32,3 +32,7 @@ Satzung_des_ZaPFev.markdown.txt: Satzung_des_ZaPFev.tex
 .PHONY : clean
 clean :
 	-rm -rf *~ *.mediawiki.txt *markdown.txt *.toc *.aux *.log *.dvi *.ps *.pdf
+
+diff:
+	latexdiff -t CCHANGEBAR --driver=pdftex Satzung_des_ZaPFev.tex Satzung_des_ZaPFev.new.tex > Satzung_des_ZaPFev.diff.tex
+	latexdiff -t CULINECHBAR --driver=pdftex Satzung_des_ZaPFev.tex Satzung_des_ZaPFev.new.tex > Satzung_des_ZaPFev.diff.tex
