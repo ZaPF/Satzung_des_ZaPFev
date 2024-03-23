@@ -141,9 +141,9 @@ Organe des Vereins sind
 
     -   Festlegung der Beitragsordnung
 
-    -   Satzungsänderungen ( Mehrheit)
+    -   Satzungsänderungen (⅔ Mehrheit)
 
-    -   Auflösung des Vereins ( Mehrheit)
+    -   Auflösung des Vereins (¾ Mehrheit)
 
 # §9 Vorstand
 
@@ -153,7 +153,7 @@ Organe des Vereins sind
 
 2.  Jedes Vorstandsmitglied ist einzeln vertretungsberechtigt.
 
-3.  Der Vorstand wird durch die Mitgliederversammlung mit  der Stimmen
+3.  Der Vorstand wird durch die Mitgliederversammlung mit ⅔ der Stimmen
     der anwesenden stimmberechtigten Mitglieder des Vereins gewählt.
     Kommt diese Mehrheit in zwei Wahlgängen nicht zustande, so
     entscheidet im dritten Wahlgang die einfache Mehrheit. Frühere
@@ -222,15 +222,15 @@ Organe des Vereins sind
     auf der Tagesordnung angekündigt war.
 
 2.  Eine Satzungsänderung kann nur durch die Mitgliederversammlung mit
-     der Stimmen der anwesenden stimmberechtigten Mitglieder des Vereins
+    ¾ der Stimmen der anwesenden stimmberechtigten Mitglieder des Vereins
     erfolgen.
 
 3.  Anträge auf Aufnahme eines Tagesordnungspunktes
-    Satzungsänderung müssen mindestens vier Wochen vor der
+    Satzungsänderung müssen mindestens vier Wochen vor der
     Mitgliederversammlung unter ausführlicher Angabe von Gründen und
     konkreten Entwürfen der Änderungen beim Vorstand eingereicht werden.
 
-4.  4\. Änderungen oder Ergänzungen der Satzung, die von der zuständigen
+4.  Änderungen oder Ergänzungen der Satzung, die von der zuständigen
     Registerbehörde oder vom Finanzamt vorgeschrieben werden, werden vom
     Vorstand umgesetzt und bedürfen keiner Beschlussfassung durch die
     Mitgliederversammlung. Sie sind den Mitgliedern spätestens mit der
@@ -239,7 +239,7 @@ Organe des Vereins sind
 # §12 Auflösung
 
 1.  Die Auflösung des Vereins kann von der Mitgliederversammlung nur mit
-     Mehrheit der Stimmen der anwesenden stimmberechtigten Mitglieder
+    ¾ Mehrheit der Stimmen der anwesenden stimmberechtigten Mitglieder
     des Vereins erfolgen.
 
 2.  Bei Auflösung oder Aufhebung der Körperschaft oder bei Wegfall
