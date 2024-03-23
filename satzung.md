@@ -147,9 +147,7 @@ Organe des Vereins sind
 
 # §9 Vorstand
 
-1.  Der Vorstand nach § 26 BGB besteht aus der/dem Vorsitzenden, der/dem
-    Kassenführer/in und mindestens einer weiteren Person, die mit ihrer
-    Wahl mit besonderen Aufgaben betraut werden können.
+1.  Der Vorstand nach § 26 BGB besteht aus mindestens drei Personen. Der Vorstand besteht zumindest aus der/dem Vorsitzenden und der/dem Kassenführer/in. Über Zahl und Aufgabengebiete der weiteren Ämter beschließt die Mitgliederversammlung bei der Neuwahl. Ämter können in Personalunion geführt werden.
 
 2.  Jedes Vorstandsmitglied ist einzeln vertretungsberechtigt.
 
