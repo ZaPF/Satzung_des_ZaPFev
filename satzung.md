@@ -252,24 +252,11 @@ Organe des Vereins sind
 3.  Bei der Auflösung wählt die Mitgliederversammlung zwei Mitglieder zu
     vertretungsberechtigten Liquidatoren.
 
-# §13 Salvatorische Klausel
-
-1.  Sollte eine der Bestimmungen dieser Satzung ganz oder teilweise
-    rechtswidrig oder unwirksam sein oder werden, so wird die Gültigkeit
-    der übrigen Bestimmungen dadurch nicht berührt. In einem solchen
-    Fall ist die Satzung vielmehr ihrem Sinne gemäß zur Durchführung zu
-    bringen. Beruht die Ungültigkeit auf einer Leistungs- oder
-    Zeitbestimmung, so tritt an ihrer Stelle das gesetzlich zulässige
-    Maß.
-
-2.  Die rechtswidrige oder unwirksame Bestimmung ist unverzüglich durch
-    Beschluss der nächsten Mitgliederversammlung zu ersetzen.
-
-# §14 Schlussbestimmungen
+# §13 Schlussbestimmungen
 
 Diese Satzung wurde in der Mitgliederversammlung am 30. Mai 2015
-beschlossen und zuletzt am 31. Oktober 2017 geändert. Sie tritt mit
+beschlossen und zuletzt am xx. xxxxxxxx 20xx geändert. Sie tritt mit
 sofortiger Wirkung in Kraft. Alle vorherigen Versionen treten damit
 außer Kraft.
 
-Siegen, den 31. Oktober 2017
+xxxxxxxxxx, den xx. xxxxxxxxx 20xx
