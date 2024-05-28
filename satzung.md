@@ -134,7 +134,7 @@ Organe des Vereins sind
 
     -   Festlegung der Beitragsordnung
 
-    -   Satzungsänderungen (⅔ Mehrheit)
+    -   Satzungsänderungen
 
     -   Auflösung des Vereins (¾ Mehrheit)
 
@@ -215,8 +215,7 @@ Organe des Vereins sind
     auf der Tagesordnung angekündigt war.
 
 2.  Eine Satzungsänderung kann nur durch die Mitgliederversammlung mit
-    ¾ der Stimmen der anwesenden stimmberechtigten Mitglieder des Vereins
-    erfolgen.
+    ¾ der abgegebenen Stimmen entsprechend $33(1) BGB erfolgen.
 
 3.  Anträge auf Aufnahme eines Tagesordnungspunktes
     Satzungsänderung müssen mindestens vier Wochen vor der
