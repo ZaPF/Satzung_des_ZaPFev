@@ -16,22 +16,15 @@ title: Satzung des ZaPF e.V.
 
 # §2 Zweck des Verein
 
-Der Verein dient der Förderung
+1.  Der Verein dient der Förderung der Volks- und Berufsbildung einschließlich der Studentenhilfe.
 
-1.  der Durchführung der halbjährlichen Treffen der Vertreter/innen der
-    Physikstudierenden der Hochschulen im deutschsprachigen Raum, der
-    Zusammenkunft aller Physikfachschaften (ZaPF).
+2.  Der Satzungszweck wird insbesondere verwirklicht durch:
 
-2.  und der Umsetzung und Finanzierung der Beschlüsse der ZaPF, sowie
-    der Gremien.
+    a.  die Durchführung der halbjährlichen Treffen der Vertretenden der Physikstudierenden der Hochschulen im deutschsprachigen Raum, der Zusammenkunft aller Physikfachschaften (ZaPF).
 
-3.  der Arbeit der Gremien der ZaPF
+    b.  die Umsetzung und Finanzierung der Beschlüsse der ZaPF, sowie deren Gremien.
 
-Der Verein bezweckt mit diesen Aufgaben einen Informationsaustausch der
-einzelnen Studierendenvertretungen und soll so eine überregionale
-Koordination ermöglichen. Durch Fachvorträge soll über neueste
-Entwicklungen aus Wissenschaft, Forschung und Technologie berichtet
-werden.
+Der Verein bezweckt mit diesen Aufgaben einen Informationsaustausch der einzelnen Studierendenvertretungen und soll so eine überregionale Koordination ermöglichen. Durch Fachvorträge soll über neueste Entwicklungen aus Wissenschaft, Forschung und Technologie berichtet werden.
 
 # §3 Gemeinnützigkeit
 
