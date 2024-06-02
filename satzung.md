@@ -1,6 +1,6 @@
 ---
 author: Vorstand des ZaPF e.V.
-date: 31. Otober 2017
+date: 19. Mai 2024
 title: Satzung des ZaPF e.V.
 ---
 
