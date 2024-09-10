@@ -14,7 +14,7 @@ title: Satzung des ZaPF e.V.
 
 # § 2 Zweck des Verein
 
-1.  Der Verein dient der Förderung der Volks- und Berufsbildung einschließlich der Studentenhilfe.
+1.  Der Verein dient der Förderung der Volks- und Berufsbildung einschließlich der Studierendenhilfe.
 
 2.  Der Satzungszweck wird insbesondere verwirklicht durch:
 
