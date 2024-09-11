@@ -90,7 +90,7 @@ Organe des Vereins sind
 
     - Wahl des Vorstands (mindestens einmal jährlich)
 
-    - Bestellung einer/eines Kassenprüferin/Kassenprüfers
+    - Bestellung der Kassenprüfung
 
     - Entgegennahme der Tätigkeits- und Rechenschaftsberichte
 
@@ -106,13 +106,13 @@ Organe des Vereins sind
 
 # § 9 Vorstand
 
-1. Der Vorstand nach § 26 BGB besteht aus mindestens drei Personen. Der Vorstand besteht zumindest aus der/dem Vorsitzenden und der/dem Kassenführer/in. Über Zahl und Aufgabengebiete der weiteren Ämter beschließt die Mitgliederversammlung bei der Neuwahl. Ämter können in Personalunion geführt werden.
+1. Der Vorstand nach § 26 BGB besteht aus mindestens drei Personen. Der Vorstand besteht zumindest aus dem Vorstandsvorsitz und der Kassenführung. Über Zahl und Aufgabengebiete der weiteren Ämter beschließt die Mitgliederversammlung bei der Neuwahl. Ämter können in Personalunion geführt werden.
 
 2. Jedes Vorstandsmitglied ist einzeln vertretungsberechtigt.
 
 3. Der Vorstand wird durch die Mitgliederversammlung mit ⅔ der Stimmen der anwesenden stimmberechtigten Mitglieder des Vereins gewählt. Kommt diese Mehrheit in zwei Wahlgängen nicht zustande, so entscheidet im dritten Wahlgang die einfache Mehrheit. Frühere Vorstandsmitglieder, die nicht erneut gewählt wurden, scheiden automatisch aus dem Vorstand aus. Damit ein Vorstand in Abwesenheit gewählt werden kann, bedarf es hierzu einer Willensbekundung des zur Wahl stehenden Mitglieds in Textform.
 
-4. Die Aufgaben der/des Vorstandsvorsitzenden sind insbesondere
+4. Die Aufgaben des Vorstandsvorsitzes sind insbesondere
 
     1. die Führung des Vereins im strategischen und grundsätzlichen Bereich,
 
@@ -124,7 +124,7 @@ Organe des Vereins sind
 
     5. die Einreichung der Mitgliederversammlungsprotokolle beim Amtsgericht.
 
-5. Die Aufgaben der/des Kassenführerin/Kassenführers sind insbesondere:
+5. Die Aufgaben der Kassenführung sind insbesondere:
 
     1. die Führung der Bücher des Vereins,
 
@@ -132,7 +132,7 @@ Organe des Vereins sind
 
     3. die Einreichung der Steuererklärung beim Finanzamt.
 
-Einzelne Aufgaben der/des Vorstandsvorsitzenden und der/des Kassenführerin/Kassenführers können stattdessen auch anderen Vorstandsmitgliedern bei ihrer Wahl übertragen werden.
+Einzelne Aufgaben des Vorstandsvorsitzes und der Kassenführung können stattdessen auch anderen Vorstandsmitgliedern bei ihrer Wahl übertragen werden.
 
 6. Zur Aufgabe eines jeden Vorstandsmitglieds gehört die Erstellung eines schriftlichen Tätigkeits- und Rechenschaftsberichts.
 
@@ -144,7 +144,7 @@ Einzelne Aufgaben der/des Vorstandsvorsitzenden und der/des Kassenführerin/Kass
 
 # § 10 Entlastung des Vorstandes
 
-1. Die Vorstandsmitglieder legen am Ende ihrer Amtszeit der Mitgliederversammlung den Tätigkeits- und Rechenschaftsbericht vor. Insbesondere müssen diese, sowie der Finanzbericht des Kassenführers, durch die/den Kassenprüfer/in bestätigt werden. Die Entlastung erfolgt auf Grundlage der Berichte.
+1. Die Vorstandsmitglieder legen am Ende ihrer Amtszeit der Mitgliederversammlung den Tätigkeits- und Rechenschaftsbericht vor. Insbesondere müssen diese, sowie der Finanzbericht der Kassenführung, durch die Kassenprüfung bestätigt werden. Die Entlastung erfolgt auf Grundlage der Berichte.
 
 2. Ein Vorstandsmitglied kann für nicht abgeschlossene Rechtsgeschäfte, die aus dessen Tätigkeit in der Amtszeit herrühren, nicht entlastet werden. Die Entlastung ist dann auf der nächsten Mitgliederversammlung nach Abschluss dieser Rechtsgeschäfte zu beantragen.
 
@@ -166,7 +166,7 @@ Einzelne Aufgaben der/des Vorstandsvorsitzenden und der/des Kassenführerin/Kass
 
 2. Bei Auflösung oder Aufhebung der Körperschaft oder bei Wegfall steuerbegünstigter Zwecke fällt das Vermögen der Körperschaft an eine juristische Person des öffentlichen Rechts oder eine andere steuerbegünstigte Körperschaft zwecks Verwendung für die Förderung von Erziehung, Volks- und Berufsbildung einschließlich der Studierendenhilfe.
 
-3. Bei der Auflösung wählt die Mitgliederversammlung zwei Mitglieder zu vertretungsberechtigten Liquidatoren.
+3. Bei der Auflösung wählt die Mitgliederversammlung zwei Mitglieder zu Vertretungsberechtigten der Liquidation.
 
 # § 13 Schlussbestimmungen
 
