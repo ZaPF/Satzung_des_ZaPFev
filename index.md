@@ -8,7 +8,7 @@ title: Satzung des ZaPF e.V.
 
 1. Der Verein führt den Namen Zusammenkunft aller Physik Fachschaften e.V..
 
-2. Der Verein hat seinen Sitz in Frankfurt am Main und ist beim Amtsgericht Frankfurt unter der Registernummer VR14547 eingetragen.
+2. Der Verein hat seinen Sitz in [ORT VOM VEREINSSITZ] und ist beim [GERICHT DER EINTRAGUNG] unter der Registernummer [REGISTERNUMMER] eingetragen.
 
 3. Das Geschäftsjahr ist das Kalenderjahr.
 
@@ -170,6 +170,6 @@ Einzelne Aufgaben der/des Vorstandsvorsitzenden und der/des Kassenführerin/Kass
 
 # § 13 Schlussbestimmungen
 
-Diese Satzung wurde in der Mitgliederversammlung am 30. Mai 2015 beschlossen und zuletzt am 19. Mai 2024 geändert. Sie tritt mit sofortiger Wirkung in Kraft. Alle vorherigen Versionen treten damit außer Kraft.
+Diese Satzung wurde in der Mitgliederversammlung am 30. Mai 2015 beschlossen und zuletzt am [DATUM DER ÄNDERUNG] geändert. Sie tritt mit sofortiger Wirkung in Kraft. Alle vorherigen Versionen treten damit außer Kraft.
 
-Kiel, den 19. Mai 2024
+[ORT DER ÄNDERUNG], den [DATUM DER ÄNDERUNG]
