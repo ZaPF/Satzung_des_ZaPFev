@@ -56,7 +56,7 @@ Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sin
 
 # § 6 Finanzen
 
-1. Es wird kein Mitgliedsbeitrag für ordentliche Mitglieder erhoben. Ist ein Mitglied gleichzeitig auch außerordentliches Mitglied, so gelten für sie/ihn die Beitragsregelungen für außerordentliche Mitglieder.
+1. Es wird kein Mitgliedsbeitrag für ordentliche Mitglieder erhoben. Ist ein Mitglied gleichzeitig auch außerordentliches Mitglied, so gelten für es die Beitragsregelungen für außerordentliche Mitglieder.
 
 2. Der Verein finanziert sich durch die Mitgliedsbeiträge der außerordentlichen Mitglieder, öffentliche Mittel, Spenden und Gebühren.
 
@@ -106,7 +106,7 @@ Organe des Vereins sind
 
 # § 9 Vorstand
 
-1. Der Vorstand nach § 26 BGB besteht aus mindestens drei Personen. Der Vorstand besteht zumindest aus dem Vorstandsvorsitz und der Kassenführung. Über Zahl und Aufgabengebiete der weiteren Ämter beschließt die Mitgliederversammlung bei der Neuwahl. Ämter können in Personalunion geführt werden.
+1. Der Vorstand nach § 26 BGB besteht aus mindestens drei Personen. Der Vorstand besteht zumindest aus den Ämtern des Vorstandsvorsitz und der Kassenführung. Über Zahl und Aufgabengebiete von weiteren Ämtern beschließt die Mitgliederversammlung bei der Neuwahl. Ämter können in Personalunion geführt werden.
 
 2. Jedes Vorstandsmitglied ist einzeln vertretungsberechtigt.
 
@@ -132,7 +132,7 @@ Organe des Vereins sind
 
     3. die Einreichung der Steuererklärung beim Finanzamt.
 
-Einzelne Aufgaben des Vorstandsvorsitzes und der Kassenführung können stattdessen auch anderen Vorstandsmitgliedern bei ihrer Wahl übertragen werden.
+Einzelne Aufgaben des Vorstandsvorsitzes und der Kassenführung können stattdessen auch anderen Vorstandsmitgliedern bei ihrer Wahl durch die Mitgliederversammlung oder jederzeit im gegenseitigen Einverständnis übertragen werden.
 
 6. Zur Aufgabe eines jeden Vorstandsmitglieds gehört die Erstellung eines schriftlichen Tätigkeits- und Rechenschaftsberichts.
 
@@ -170,6 +170,6 @@ Einzelne Aufgaben des Vorstandsvorsitzes und der Kassenführung können stattdes
 
 # § 13 Schlussbestimmungen
 
-Diese Satzung wurde in der Mitgliederversammlung am 30. Mai 2015 beschlossen und zuletzt am 19. Mai 2024 geändert. Sie tritt mit sofortiger Wirkung in Kraft. Alle vorherigen Versionen treten damit außer Kraft.
+Diese Satzung wurde in der Mitgliederversammlung am 30. Mai 2015 beschlossen und zuletzt am [DATUM DER ÄNDERUNG] geändert. Sie tritt mit sofortiger Wirkung in Kraft. Alle vorherigen Versionen treten damit außer Kraft.
 
-Kiel, den 19. Mai 2024
+[ORT DER ÄNDERUNG], den [DATUM DER ÄNDERUNG]
