@@ -106,17 +106,17 @@ Organe des Vereins sind
 
 # § 9 Vorstand
 
-1. Der Vorstand nach § 26 BGB besteht aus mindestens drei Personen. Der Vorstand besteht zumindest aus den Ämtern des Vorstandsvorsitz und der Kassenführung. Über Zahl und Aufgabengebiete von weiteren Ämtern beschließt die Mitgliederversammlung bei der Neuwahl. Ämter können in Personalunion geführt werden.
+1. Der Vorstand nach § 26 BGB besteht aus mindestens drei Personen. Der Vorstand besteht zumindest aus den Ämtern des Vorsitz und der Kassenführung. Über Zahl und Aufgabengebiete von weiteren Ämtern beschließt die Mitgliederversammlung bei der Neuwahl. Ämter können in Personalunion geführt werden.
 
 2. Jedes Vorstandsmitglied ist einzeln vertretungsberechtigt.
 
-3. Der Vorstand wird durch die Mitgliederversammlung mit ⅔ der Stimmen der anwesenden stimmberechtigten Mitglieder des Vereins gewählt. Kommt diese Mehrheit in zwei Wahlgängen nicht zustande, so entscheidet im dritten Wahlgang die einfache Mehrheit. Frühere Vorstandsmitglieder, die nicht erneut gewählt wurden, scheiden automatisch aus dem Vorstand aus. Damit ein Vorstand in Abwesenheit gewählt werden kann, bedarf es hierzu einer Willensbekundung des zur Wahl stehenden Mitglieds in Textform.
+3. Der Vorstand wird durch die Mitgliederversammlung mit ⅔ der Stimmen der anwesenden stimmberechtigten Mitglieder des Vereins gewählt. Kommt diese Mehrheit in zwei Wahlgängen nicht zustande, so entscheidet im dritten Wahlgang die einfache Mehrheit. Frühere Vorstandsmitglieder, die nicht erneut gewählt wurden, scheiden automatisch aus dem Vorstand aus. Damit ein Vorstand in Abwesenheit gewählt werden kann, bedarf es einer Willensbekundung des zur Wahl stehenden Mitglieds in Textform.
 
-4. Die Aufgaben des Vorstandsvorsitzes sind insbesondere
+4. Die Aufgaben des Vorsitzes sind insbesondere
 
     1. die Führung des Vereins im strategischen und grundsätzlichen Bereich,
 
-    2. die Berufung der Mitgliederversammlung,
+    2. die Einberufung der Mitgliederversammlung,
 
     3. die Verwaltung der Mitglieder,
 
@@ -132,7 +132,7 @@ Organe des Vereins sind
 
     3. die Einreichung der Steuererklärung beim Finanzamt.
 
-Einzelne Aufgaben des Vorstandsvorsitzes und der Kassenführung können stattdessen auch anderen Vorstandsmitgliedern bei ihrer Wahl durch die Mitgliederversammlung oder jederzeit im gegenseitigen Einverständnis übertragen werden.
+Einzelne Aufgaben des Vorsitzes und der Kassenführung können auch anderen Vorstandsmitgliedern bei ihrer Wahl durch die Mitgliederversammlung oder jederzeit im gegenseitigen Einverständnis übertragen werden.
 
 6. Zur Aufgabe eines jeden Vorstandsmitglieds gehört die Erstellung eines schriftlichen Tätigkeits- und Rechenschaftsberichts.
 
