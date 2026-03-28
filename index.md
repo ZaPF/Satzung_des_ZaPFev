@@ -122,7 +122,7 @@ Organe des Vereins sind
 
     4. die Unterzeichnung der Mitgliederversammlungsprotokolle,
 
-    5. die Einreichung der Mitgliederversammlungsprotokolle beim Amtsgericht.
+    5. die Kommunikation insbesondere bei Vorstand- und Satzungsänderungen mit dem registerführenden Gericht.
 
 5. Die Aufgaben der Kassenführung sind insbesondere:
 
@@ -134,7 +134,7 @@ Organe des Vereins sind
 
 Einzelne Aufgaben des Vorsitzes und der Kassenführung können auch anderen Vorstandsmitgliedern bei ihrer Wahl durch die Mitgliederversammlung oder jederzeit im gegenseitigen Einverständnis übertragen werden.
 
-6. Zur Aufgabe eines jeden Vorstandsmitglieds gehört die Erstellung eines schriftlichen Tätigkeits- und Rechenschaftsberichts.
+6. Zur Aufgabe eines jeden Vorstandsmitglieds gehört die Erstellung eines Tätigkeits- und Rechenschaftsberichts.
 
 7. Als Aufgabengebiete, zu denen Vorstände gewählt werden können kommen insbesondere in Betracht:
 
@@ -144,7 +144,7 @@ Einzelne Aufgaben des Vorsitzes und der Kassenführung können auch anderen Vors
 
 # § 10 Entlastung des Vorstandes
 
-1. Die Vorstandsmitglieder legen am Ende ihrer Amtszeit der Mitgliederversammlung den Tätigkeits- und Rechenschaftsbericht vor. Insbesondere müssen diese, sowie der Finanzbericht der Kassenführung, durch die Kassenprüfung bestätigt werden. Die Entlastung erfolgt auf Grundlage der Berichte.
+1. Die Vorstandsmitglieder legen am Ende ihrer Amtszeit der Mitgliederversammlung den Tätigkeits- und Rechenschaftsbericht vor. Der Finanzbericht der Kassenführung wird durch die Kassenprüfung bestätigt. Die Entlastung erfolgt auf Grundlage der Berichte.
 
 2. Ein Vorstandsmitglied kann für nicht abgeschlossene Rechtsgeschäfte, die aus dessen Tätigkeit in der Amtszeit herrühren, nicht entlastet werden. Die Entlastung ist dann auf der nächsten Mitgliederversammlung nach Abschluss dieser Rechtsgeschäfte zu beantragen.
 
