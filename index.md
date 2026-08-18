@@ -1,6 +1,6 @@
 ---
 author: Vorstand des ZaPF e.V.
-date: 21. Mai 2026
+date: 18. August 2026
 title: Satzung des ZaPF e.V.
 ---
 
@@ -8,7 +8,7 @@ title: Satzung des ZaPF e.V.
 
 1. Der Verein führt den Namen Zusammenkunft aller Physik Fachschaften e.V..
 
-2. Der Verein hat seinen Sitz in Bad Honnef und ist beim [Platzhalter: Registergericht, vsl. Amtsgericht Siegburg, wird nach Umtragung ersetzt] unter der Registernummer [Platzhalter: Registernummer, wird nach Umtragung ersetzt] eingetragen.
+2. Der Verein hat seinen Sitz in Bad Honnef und ist beim Amtsgericht Siegburg unter der Registernummer VR 4151 eingetragen.
 
 3. Das Geschäftsjahr ist das Kalenderjahr.
 
